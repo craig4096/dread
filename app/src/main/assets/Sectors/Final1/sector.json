@@ -1,0 +1,39 @@
+
+{ 
+	"position":{ 
+		"x":23.000000,
+		"y":0.000000,
+		"z":1.800000 
+	},
+	"ambient_sound":"DefaultAmbient",
+	"enemy_sound":"DefaultAmbient",
+	"cutscene_text":"",
+	"cutscene_video":"",
+	"doors":[ 
+		{ 
+			"links_to":"Final2",
+			"rotation":[ 
+				0.000000,
+				-0.000000,
+				1.000000,
+				0.000000,
+				1.000000,
+				0.000000,
+				-1.000000,
+				-0.000000,
+				0.000000 
+			],
+			"position":{ 
+				"x":20.000000,
+				"y":0.000000,
+				"z":1.800000 
+			},
+			"width":4.000000,
+			"height":6.000000 
+		} 
+	],
+	"spawn_points":[ 
+	],
+	"weapon_store_points":[ 
+	] 
+} 

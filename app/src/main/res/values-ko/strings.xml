@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">예</string>
+<string name="no">아니요</string>
+<string name="menu_play_game">시작</string>
+<string name="menu_how_to_play">지침</string>
+<string name="menu_settings">설정</string>
+<string name="menu_about">소개</string>
+<string name="menu_quit">중지</string>
+<string name="menu_game_over">게임 오버</string>
+<string name="menu_continue">계속</string>
+<string name="credit_text">플레이해주셔서 감사합니다.</string>
+<string name="vibration_enabled">진동</string>
+<string name="vibration_enabled_summary">총이 발사 될 때 전화가 진동 할 것이다</string>
+<string name="sounds_enabled">사운드</string>
+<string name="sounds_enabled_summary">활성화하거나 게임 사운드 효과를 사용하지 않습니다</string>
+<string name="music_enabled">한국어</string>
+<string name="music_enabled_summary">활성화하거나 게임에서 배경 음악을 사용하지</string>
+<string name="ammo_bar_visible">탄약 미터</string>
+<string name="ammo_bar_visible_summary">탄약 미터는 게임에 표시됩니다</string>
+<string name="enemy_health_bars_visible">건강 미터</string>
+<string name="enemy_health_bars_visible_summary">건강 미터는 게임에 표시</string>
+<string name="menu_reset_save">게임 검색 새로</string>
+<string name="device_orientation_enabled">장치 방향</string>
+<string name="device_orientation_enabled_summary">장치 방위는 카메라를 회전 시키도록 사용될</string>
+<string name="reset_save_confirm_title">게임을 재설정?</string>
+<string name="reset_save_confirm_text">당신은 정말 당신의 게임을 다시 설정 하시겠습니까? 이 모든 과정을 지 웁니다</string>
+<string name="swipe_sensitivity">출근 감도</string>
+<string name="swipe_sensitivity_summary">슬쩍 줄을 끌어 때 카메라가 회전합니다 얼마나 빨리</string>
+<string name="wstat_damage">대미지</string>
+<string name="wstat_firerate">화재 속도</string>
+<string name="wstat_reloadtime">시간을 다시로드</string>
+<string name="wstat_capacity">용량</string>
+<string name="wstat_automatic">자동</string>
+<string name="menu_back">뒤로</string>
+<string name="how_to_play_swipe_bar">카메라 좌우 회전 화면 하단에 슬쩍 막대를 드래그</string>
+<string name="how_to_play_travel">이 아이콘을 볼 때 당신이 거기 가서 화면의 중앙을 눌러 게임의 새로운 영역으로 이동 할 수 있음을 의미</string>
+<string name="how_to_play_weaponloc">당신이 게임에서 무기를 발견하면, 잠금을 해제하려면이 아이콘을 탭!</string>
+<string name="how_to_play_weapon_display">이 게임에 돌아가도 당신의 장치의 화면 또는 뒤로 버튼의 맨 아래에있는 뒤로 가기 버튼을 눌러, 무기 디스플레이 화면에 당신을 데려 갈 것이다</string>
+<string name="how_to_play_firing_reloading">무기를 촬영하고 위쪽 절반은 당신이 잠금 해제 모든 무기를 전환 할 탭 화면의 하단을 누릅니다</string>
+<string name="developed_by">에 의해 개발</string>
+<string name="email">이메일</string>
+<string name="no_email">\'T 전자 메일 활동이 설치되어 \ 현재 돈</string>
+<string name="ok">확인</string>
+<string name="intro_briefing">박사 공포 수면 세기 이후에 각성했다. 그는 전 세계에 걸쳐 복용의 의도와 그의 군대를 파견했다! 너무 늦기 전에 당신은 그를 막을 수있다!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>매우 낮게</item>
+<item>최저</item>
+<item>보통</item>
+<item>빠른</item>
+<item>매우 빠르게</item>
+</string-array>
+</resources>

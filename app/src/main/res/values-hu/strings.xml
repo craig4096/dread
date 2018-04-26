@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Igen</string>
+<string name="no">Nincs</string>
+<string name="menu_play_game">Indítás</string>
+<string name="menu_how_to_play">Utasitasok zoloklaszin</string>
+<string name="menu_settings">Beállítások</string>
+<string name="menu_about">Névjegy</string>
+<string name="menu_quit">Kilépés</string>
+<string name="menu_game_over">Vége a játéknak</string>
+<string name="menu_continue">Folytatás?</string>
+<string name="credit_text">Köszönjük a játékot!</string>
+<string name="vibration_enabled">Rezgés</string>
+<string name="vibration_enabled_summary">Telefon rezegni fog, ha fegyver van rúgva</string>
+<string name="sounds_enabled">Hangok</string>
+<string name="sounds_enabled_summary">Engedélyezi vagy letiltja hanghatások a játék</string>
+<string name="music_enabled">Zene</string>
+<string name="music_enabled_summary">Engedélyezi vagy letiltja háttérzene a Game</string>
+<string name="ammo_bar_visible">Lőszerek mérők</string>
+<string name="ammo_bar_visible_summary">Lőszer mérők jelenik meg a játékban</string>
+<string name="enemy_health_bars_visible">Egészségügyi műszerek</string>
+<string name="enemy_health_bars_visible_summary">Egészségügyi műszerek megjelenik a játékban</string>
+<string name="menu_reset_save">Visszaállítása Game</string>
+<string name="device_orientation_enabled">Device Tájolás</string>
+<string name="device_orientation_enabled_summary">Device tájolás fogják használni forgatni a kamerát</string>
+<string name="reset_save_confirm_title">Visszaállítása játék?</string>
+<string name="reset_save_confirm_text">Valóban vissza kívánja állítani a játékot? Ez törli az összes folyamatban</string>
+<string name="swipe_sensitivity">Swipe érzékenység</string>
+<string name="swipe_sensitivity_summary">Milyen gyors a kamera forog, ha húzza a ellop bárban</string>
+<string name="wstat_damage">kár</string>
+<string name="wstat_firerate">Tűz-os</string>
+<string name="wstat_reloadtime">Újratöltési idő:</string>
+<string name="wstat_capacity">Kapacitás</string>
+<string name="wstat_automatic">Automatikus</string>
+<string name="menu_back">dorsum</string>
+<string name="how_to_play_swipe_bar">Húzza a ellop alján a képernyő forgatni a kamerát bal és jobb</string>
+<string name="how_to_play_travel">Amikor látod, ez az ikon azt jelenti, hogy akkor költöznek egy új terület a játékban, érintse meg a képernyő közepén, hogy ott</string>
+<string name="how_to_play_weaponloc">Ha megtalálta a fegyvert a játékban, érintse meg ezt az ikont, hogy oldja meg!</string>
+<string name="how_to_play_weapon_display">Ez elviszi a fegyvert képernyő, hogy visszatérjen a játék, vagy nyomja meg a Vissza gombot alján a képernyőn, vagy a Vissza gombot a készüléken</string>
+<string name="how_to_play_firing_reloading">Érintse meg az alsó felét a képernyőn, hogy lő fegyvert, és érintse meg a felső fele közötti váltáshoz minden fegyver van nyitva</string>
+<string name="developed_by">Által kifejlesztett</string>
+<string name="email">E-mail</string>
+<string name="no_email">Jelenleg nem \ \'t, hogy egy e-mail tevékenység telepített</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Dr. Dread felébresztette évszázados alvás. Ő szállította a hadsereg azzal a szándékkal, átveszi az egész világ! Meg kell állítani, mielőtt még túl késő lenne!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Nagyon alacsony</item>
+<item>Alacsony</item>
+<item>Normális</item>
+<item>Böjt</item>
+<item>nagyon gyors</item>
+</string-array>
+</resources>

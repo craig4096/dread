@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">はい</string>
+<string name="no">いいえ</string>
+<string name="menu_play_game">スタート</string>
+<string name="menu_how_to_play">コマンド</string>
+<string name="menu_settings">設定</string>
+<string name="menu_about">バージョン情報</string>
+<string name="menu_quit">やめる</string>
+<string name="menu_game_over">ゲームオーバー</string>
+<string name="menu_continue">継続</string>
+<string name="credit_text">プレイしてくれてありがとう</string>
+<string name="vibration_enabled">振動</string>
+<string name="vibration_enabled_summary">銃が発射された時に電話が振動します</string>
+<string name="sounds_enabled">サウンド</string>
+<string name="sounds_enabled_summary">ゲームのサウンドエフェクトを有効または無効にします</string>
+<string name="music_enabled">音楽</string>
+<string name="music_enabled_summary">ゲーム内BGMを有効または無効にします</string>
+<string name="ammo_bar_visible">弾薬メータ</string>
+<string name="ammo_bar_visible_summary">弾薬メータは、ゲームに表示されます</string>
+<string name="enemy_health_bars_visible">健康メートル</string>
+<string name="enemy_health_bars_visible_summary">健康メータは、ゲーム内に表示される</string>
+<string name="menu_reset_save">ゲームをリセット</string>
+<string name="device_orientation_enabled">デバイスの向き</string>
+<string name="device_orientation_enabled_summary">デバイスの向きは、カメラを回転させるために使用される</string>
+<string name="reset_save_confirm_title">ゲームをリセットしますか？</string>
+<string name="reset_save_confirm_text">あなたは本当にあなたのゲームをリセットしますか？これは、すべての進捗状況が消去されます</string>
+<string name="swipe_sensitivity">スワイプ感度</string>
+<string name="swipe_sensitivity_summary">スワイプバーをドラッグするとカメラが回転しますどのくらいの速さ</string>
+<string name="wstat_damage">損傷、被害</string>
+<string name="wstat_firerate">火災レート</string>
+<string name="wstat_reloadtime">時間をリロード</string>
+<string name="wstat_capacity">容量</string>
+<string name="wstat_automatic">オートマチック</string>
+<string name="menu_back">戻る</string>
+<string name="how_to_play_swipe_bar">左カメラを回転させ、画面の一番下にスワイプバーをドラッグし、右</string>
+<string name="how_to_play_travel">このアイコンが表示されたら、それはあなたがそこに行くために、画面の中央をタップすると、ゲーム内の新しい場所に移動できることを意味します</string>
+<string name="how_to_play_weaponloc">あなたがゲーム内で武器を見つけたときは、ロックを解除するには、このアイコンをタップ！</string>
+<string name="how_to_play_weapon_display">これは、ゲームに戻るのどちらかお使いのデバイスの画面や戻るボタンの下部にある[戻る]ボタンを押して、武器の表示画面に移動します</string>
+<string name="how_to_play_firing_reloading">あなたがロックを解除しているすべての武器を切り替えることが武器を撮影し、上半分をタップし、画面の下半分をタップ</string>
+<string name="developed_by">によって開発された</string>
+<string name="email">E メール</string>
+<string name="no_email">もし現在ドン\ \'tは、電子メール活動がインストールされている</string>
+<string name="ok">OK</string>
+<string name="intro_briefing">博士はドレッドは睡眠の数世紀後に起こさ​​れました。彼は全世界を引き継ぐことを意図して彼の軍隊を派遣しています！手遅れになる前に、彼を停止する必要があります！</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>非常に低い</item>
+<item>ロー</item>
+<item>ノーマル</item>
+<item>速さ</item>
+<item>さらに速く</item>
+</string-array>
+</resources>

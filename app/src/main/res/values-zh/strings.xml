@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">是</string>
+<string name="no">否</string>
+<string name="menu_play_game">開始</string>
+<string name="menu_how_to_play">说明</string>
+<string name="menu_settings">设置</string>
+<string name="menu_about">关于</string>
+<string name="menu_quit">退出</string>
+<string name="menu_game_over">Game over</string>
+<string name="menu_continue">要继续吗？</string>
+<string name="credit_text">感谢你的支持</string>
+<string name="vibration_enabled">振动</string>
+<string name="vibration_enabled_summary">手砲</string>
+<string name="sounds_enabled">声音</string>
+<string name="sounds_enabled_summary">音效。</string>
+<string name="music_enabled">音乐</string>
+<string name="music_enabled_summary">為影片加上背景音樂</string>
+<string name="ammo_bar_visible">米</string>
+<string name="ammo_bar_visible_summary">米</string>
+<string name="enemy_health_bars_visible">健康</string>
+<string name="enemy_health_bars_visible_summary">米</string>
+<string name="menu_reset_save">重置</string>
+<string name="device_orientation_enabled">方向</string>
+<string name="device_orientation_enabled_summary">方向</string>
+<string name="reset_save_confirm_title">重置</string>
+<string name="reset_save_confirm_text">你要重新設定該數值嗎？</string>
+<string name="swipe_sensitivity">区分大小写</string>
+<string name="swipe_sensitivity_summary">旋轉</string>
+<string name="wstat_damage">损坏</string>
+<string name="wstat_firerate">消防率</string>
+<string name="wstat_reloadtime">重新載入</string>
+<string name="wstat_capacity">生产量</string>
+<string name="wstat_automatic">自动</string>
+<string name="menu_back">返回</string>
+<string name="how_to_play_swipe_bar">向右旋转</string>
+<string name="how_to_play_travel">这是您的屏幕传达的意思：</string>
+<string name="how_to_play_weaponloc">武器</string>
+<string name="how_to_play_weapon_display">若 GPS 數據有效，點擊 Map 按鈕，就可在 Metadata 面板下方開啓一個可改變大小的小地圖，顯示相片的拍攝地點。</string>
+<string name="how_to_play_firing_reloading">全螢幕切換</string>
+<string name="developed_by">已開發國家</string>
+<string name="email">电子信箱</string>
+<string name="no_email">当前安装的智能标记</string>
+<string name="ok">確定</string>
+<string name="intro_briefing">世纪</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>非常低</item>
+<item>低</item>
+<item>一般</item>
+<item>快</item>
+<item>很快</item>
+</string-array>
+</resources>

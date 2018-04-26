@@ -1,0 +1,15 @@
+{
+	"sprite_sheet":"IronAnubis",
+	"health":300,
+	"width":4.0,
+	"height":5.0,
+	"speed":0.5,
+	"hurt_sounds":[
+	    "MonsterHurt1"
+	],
+	"death_sounds":[
+	    "IronAnubisDeath"
+	],
+	"colour":"#FFFFFF",
+	"is_boss":false
+}

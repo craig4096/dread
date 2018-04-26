@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Kyllä</string>
+<string name="no">Ei</string>
+<string name="menu_play_game">Käynnistä</string>
+<string name="menu_how_to_play">Ohjeet</string>
+<string name="menu_settings">Asetukset</string>
+<string name="menu_about">Yleistä</string>
+<string name="menu_quit">Lopeta</string>
+<string name="menu_game_over">Peli loppu</string>
+<string name="menu_continue">Jatka?</string>
+<string name="credit_text">Kiitos pelaa!</string>
+<string name="vibration_enabled">Värähtely</string>
+<string name="vibration_enabled_summary">Puhelin värisee, kun aseet ovat potkut</string>
+<string name="sounds_enabled">Äänet</string>
+<string name="sounds_enabled_summary">Ottaa käyttöön tai poistaa äänitehosteiden Game</string>
+<string name="music_enabled">Music</string>
+<string name="music_enabled_summary">Ottaa käyttöön tai poistaa taustamusiikkina Game</string>
+<string name="ammo_bar_visible">Ammukset Mittarit</string>
+<string name="ammo_bar_visible_summary">Ammukset Mittarit näkyy pelin</string>
+<string name="enemy_health_bars_visible">Terveys Mittarit</string>
+<string name="enemy_health_bars_visible_summary">Terveys Mittarit näytetään pelin</string>
+<string name="menu_reset_save">Aloita peli alusta</string>
+<string name="device_orientation_enabled">Laite Suunta</string>
+<string name="device_orientation_enabled_summary">Laite Suunta käytetään kääntää kameraa</string>
+<string name="reset_save_confirm_title">Aloita peli alusta</string>
+<string name="reset_save_confirm_text">Haluatko todella nollata pelin? Tämä poistaa kaikki edistystä</string>
+<string name="swipe_sensitivity">Swipe Herkkyys</string>
+<string name="swipe_sensitivity_summary">Kuinka nopeasti kamera pyörii vedettäessä pyyhkäisemällä bar</string>
+<string name="wstat_damage">Damage</string>
+<string name="wstat_firerate">Palo-rate</string>
+<string name="wstat_reloadtime">Reload kertaa</string>
+<string name="wstat_capacity">Kapasiteetti</string>
+<string name="wstat_automatic">Automaattinen</string>
+<string name="menu_back">Takaisin</string>
+<string name="how_to_play_swipe_bar">Vedä huitaista palkki alareunassa näytön kääntää kameraa vasemmalle ja oikealle</string>
+<string name="how_to_play_travel">Kun näet tämän kuvakkeen se tarkoittaa, että voit siirtyä uudelle alueelle pelin, kosketa näytön keskelle mennä sinne</string>
+<string name="how_to_play_weaponloc">Kun löydät ase pelin napauttamalla tätä ikonia kun haluat avata sitä!</string>
+<string name="how_to_play_weapon_display">Tämä vie aseen näyttöruutu, palata peliin joko painamalla takaisin-painiketta alareunassa näytön tai takaisin-painiketta laitteen</string>
+<string name="how_to_play_firing_reloading">Kosketa alaosassa näytön ampua aseita ja kosketa yläosan vaihtaa kaikki aseet olet avannut</string>
+<string name="developed_by">Kehittämä</string>
+<string name="email">Sähköposti</string>
+<string name="no_email">Sinulla on tällä hetkellä Don \ \'t on sähköpostin toimintaa asennettu</string>
+<string name="ok">OK</string>
+<string name="intro_briefing">Dr. Dread on herättänyt vuosisatojen jälkeen unta. Hän on lähettänyt armeijansa kanssa aikomusta ryhtyä koko maailmassa! Sinun täytyy pysäyttää hänet ennen kuin on liian myöhäistä!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Erittäin matala</item>
+<item>Matala</item>
+<item>Normaali</item>
+<item>Nopea</item>
+<item>Erittäin nopea</item>
+</string-array>
+</resources>

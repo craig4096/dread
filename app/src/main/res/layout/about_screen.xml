@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="@drawable/menu_background">
+
+    <TextView
+		android:id="@+id/aboutText"
+		style="@style/about_text"
+		android:text=""/>
+    
+	<Button
+		android:id="@+id/emailButton"
+		style="@style/menu_button_style"
+		android:text="@string/email" />
+	
+</LinearLayout>

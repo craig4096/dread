@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Ναί</string>
+<string name="no">Όχι</string>
+<string name="menu_play_game">Έναρξη</string>
+<string name="menu_how_to_play">Οδηγίες</string>
+<string name="menu_settings">Ρυθμίσεις</string>
+<string name="menu_about">Περί</string>
+<string name="menu_quit">έξοδος</string>
+<string name="menu_game_over">Τέλος παιχνιδιού</string>
+<string name="menu_continue">Συνέχεια;</string>
+<string name="credit_text">Ευχαριστώ για το παιχνίδι!</string>
+<string name="vibration_enabled">Ταλάντωση</string>
+<string name="vibration_enabled_summary">Τηλέφωνο θα δονείται όταν τα όπλα τροφοδοτούνται</string>
+<string name="sounds_enabled">Ήχος</string>
+<string name="sounds_enabled_summary">Ενεργοποιεί ή απενεργοποιεί Ηχητικά εφέ στο παιχνίδι</string>
+<string name="music_enabled">Μουσική</string>
+<string name="music_enabled_summary">Ενεργοποιεί ή απενεργοποιεί μουσική υπόκρουση στο παιχνίδι</string>
+<string name="ammo_bar_visible">Μέτρα Πυρομαχικά</string>
+<string name="ammo_bar_visible_summary">Μέτρα πυρομαχικά θα εμφανιστεί στο παιχνίδι</string>
+<string name="enemy_health_bars_visible">Μέτρα για την υγεία</string>
+<string name="enemy_health_bars_visible_summary">Μέτρα για την υγεία πρέπει να εμφανίζεται στο παιχνίδι</string>
+<string name="menu_reset_save">Επαναφορά Game</string>
+<string name="device_orientation_enabled">Προσανατολισμός της συσκευής</string>
+<string name="device_orientation_enabled_summary">Προσανατολισμός της συσκευής θα πρέπει να χρησιμοποιείται για την περιστροφή της κάμερας</string>
+<string name="reset_save_confirm_title">Επαναφορά παιχνίδι;</string>
+<string name="reset_save_confirm_text">Θέλετε πραγματικά να επαναφέρετε το παιχνίδι σας; Αυτό θα διαγράψει όλη την πρόοδο</string>
+<string name="swipe_sensitivity">Περάστε το Ευαισθησία</string>
+<string name="swipe_sensitivity_summary">Πόσο γρήγορα η κάμερα περιστρέφεται όταν σύρετε τη γραμμή swipe</string>
+<string name="wstat_damage">βλάβη</string>
+<string name="wstat_firerate">Φωτιά επιτόκιο</string>
+<string name="wstat_reloadtime">Ώρα επαναφόρτωσης:</string>
+<string name="wstat_capacity">Χωρητικότητα</string>
+<string name="wstat_automatic">Αυτόματο</string>
+<string name="menu_back">Πίσω</string>
+<string name="how_to_play_swipe_bar">Σύρετε τη γραμμή ισχυρό κτύπημα στο κάτω μέρος της οθόνης για να περιστρέψετε την κάμερα αριστερά και δεξιά</string>
+<string name="how_to_play_travel">Όταν δείτε αυτό το εικονίδιο σημαίνει ότι μπορείτε να προχωρήσουμε σε μια νέα περιοχή του παιχνιδιού, πατήστε το κέντρο της οθόνης για να πάτε εκεί</string>
+<string name="how_to_play_weaponloc">Όταν βρείτε ένα όπλο στο παιχνίδι, πιέστε αυτό το εικονίδιο για να ξεκλειδώσετε!</string>
+<string name="how_to_play_weapon_display">Αυτό θα σας μεταφέρει στην οθόνη το όπλο, για να επιστρέψει στο παιχνίδι, είτε πατήστε το κουμπί πίσω στο κάτω μέρος της οθόνης ή το πλήκτρο επιστροφής στη συσκευή σας</string>
+<string name="how_to_play_firing_reloading">Πατήστε το κάτω μισό της οθόνης για να πυροβολήσει τα όπλα και χτυπήστε το πάνω μισό για εναλλαγή μεταξύ όλα τα όπλα που έχετε ξεκλείδωτη</string>
+<string name="developed_by">Αναπτύχθηκε από</string>
+<string name="email">Email</string>
+<string name="no_email">Αυτήν τη στιγμή don \ \'t έχουν εγκαταστήσει μια δραστηριότητα ηλεκτρονικού ταχυδρομείου</string>
+<string name="ok">Εντάξει</string>
+<string name="intro_briefing">Ο Δρ Dread ξύπνησε μετά από αιώνες ύπνου. Έχει αποσταλεί στρατού του με την πρόθεση να αναλάβει ολόκληρο τον κόσμο! Θα πρέπει να τον σταματήσουν πριν να είναι πολύ αργά!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Πολύ περιορισμένες</item>
+<item>Χαμηλό</item>
+<item>Κανονικός</item>
+<item>Γρήγορα</item>
+<item>Πολύ γρήγορη</item>
+</string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Ja</string>
+<string name="no">Nej</string>
+<string name="menu_play_game">Starta</string>
+<string name="menu_how_to_play">Kommando</string>
+<string name="menu_settings">Inställningar</string>
+<string name="menu_about">Om</string>
+<string name="menu_quit">% quit</string>
+<string name="menu_game_over">Spelet slut</string>
+<string name="menu_continue">Vill du fortsätta?</string>
+<string name="credit_text">Tack för att du spelar!</string>
+<string name="vibration_enabled">Vibration</string>
+<string name="vibration_enabled_summary">Telefonen vibrerar när vapen avfyras</string>
+<string name="sounds_enabled">Ljud</string>
+<string name="sounds_enabled_summary">Aktiverar eller inaktiverar ljudeffekter i spel</string>
+<string name="music_enabled">Musik</string>
+<string name="music_enabled_summary">Aktiverar eller inaktiverar bakgrundsmusik i spelet</string>
+<string name="ammo_bar_visible">Ammunition Meter</string>
+<string name="ammo_bar_visible_summary">Ammunition Meter kommer att visas i spelet</string>
+<string name="enemy_health_bars_visible">Hälsomätare</string>
+<string name="enemy_health_bars_visible_summary">Hälsomätare visas i spelet</string>
+<string name="menu_reset_save">Återställ spelet</string>
+<string name="device_orientation_enabled">Device Orientering</string>
+<string name="device_orientation_enabled_summary">Enhets Orientering kommer att användas för att rotera kameran</string>
+<string name="reset_save_confirm_title">Reset Game?</string>
+<string name="reset_save_confirm_text">Vill du verkligen vill återställa ditt spel? Detta kommer att radera alla framsteg</string>
+<string name="swipe_sensitivity">Swipe Känslighet</string>
+<string name="swipe_sensitivity_summary">Hur snabbt kameran roterar när du drar slägga bar</string>
+<string name="wstat_damage">Skada</string>
+<string name="wstat_firerate">Brand-ränta</string>
+<string name="wstat_reloadtime">Ladda tid</string>
+<string name="wstat_capacity">Kapacitet</string>
+<string name="wstat_automatic">automatiska</string>
+<string name="menu_back">Tillbaka</string>
+<string name="how_to_play_swipe_bar">Dra slägga fältet längst ned på skärmen för att rotera kameran åt vänster och höger</string>
+<string name="how_to_play_travel">När du ser den här ikonen betyder det att du kan flytta till ett nytt område i spelet Tryck på mitten av skärmen för att gå dit</string>
+<string name="how_to_play_weaponloc">När du hittar ett vapen i spelet, tryck på den här ikonen för att låsa upp den!</string>
+<string name="how_to_play_weapon_display">Detta tar dig till vapnet bildskärm, för att återgå till spelet antingen trycka på bakåtknappen längst ner på skärmen eller på bakåt-knappen på enheten</string>
+<string name="how_to_play_firing_reloading">Tryck på den nedre halvan av skärmen för att skjuta vapen och tryck på den övre halvan för att växla mellan alla vapen som du har olåst</string>
+<string name="developed_by">Utvecklad av</string>
+<string name="email">E-post</string>
+<string name="no_email">Du behöver nu \ \'t har en e-aktivitet installerad</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Dr Dread har vaknat efter århundraden av sömn. Han har sänt sitt Army med avsikt att ta över hela världen! Du måste stoppa honom innan det är för sent!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Mycket låg</item>
+<item>Låg</item>
+<item>Normal</item>
+<item>Fart</item>
+<item>Mycket snabb</item>
+</string-array>
+</resources>

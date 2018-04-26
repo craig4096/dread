@@ -1,0 +1,39 @@
+
+{ 
+	"position":{ 
+		"x":17.000000,
+		"y":21.000002,
+		"z":1.800000 
+	},
+	"ambient_sound":"LabAmbient",
+	"enemy_sound":"LabAmbient",
+	"cutscene_text":"",
+	"cutscene_video":"",
+	"doors":[ 
+		{ 
+			"links_to":"LabToiletFemale",
+			"rotation":[ 
+				1.000000,
+				0.000000,
+				-0.000000,
+				-0.000000,
+				0.000000,
+				-1.000000,
+				-0.000000,
+				1.000000,
+				0.000000 
+			],
+			"position":{ 
+				"x":17.040003,
+				"y":22.000000,
+				"z":1.520000 
+			},
+			"width":1.400000,
+			"height":2.040000 
+		} 
+	],
+	"spawn_points":[ 
+	],
+	"weapon_store_points":[ 
+	] 
+} 

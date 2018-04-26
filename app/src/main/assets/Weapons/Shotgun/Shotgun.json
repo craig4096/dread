@@ -1,0 +1,18 @@
+{
+	"automatic": false,
+	"kick_back_offset_x": -75,
+	"kick_back_offset_y": -50,
+	"fire_rate": 1.0,
+	"mag_capacity":2,
+	"bullet_damage":20,
+	"reload_time":1.5,
+	"kick_back_speed":700,
+	"kick_forward_speed":500,
+	"muzzle_x":280,
+	"muzzle_y":140,
+	"fire_sound":"ShotgunFire",
+	"empty_sound":"StdEmpty",
+	"reload_sound":"ShotgunReload",
+	"ammo_texture":"ShotgunAmmo",
+	"muzzle_flash_duration":0.2
+}

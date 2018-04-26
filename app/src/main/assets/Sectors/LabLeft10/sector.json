@@ -1,0 +1,39 @@
+
+{ 
+	"position":{ 
+		"x":159.000000,
+		"y":9.200001,
+		"z":1.800000 
+	},
+	"ambient_sound":"LabAmbient",
+	"enemy_sound":"LabAmbient",
+	"cutscene_text":"",
+	"cutscene_video":"LockEndLeft.mp4",
+	"doors":[ 
+		{ 
+			"links_to":"LabEnd",
+			"rotation":[ 
+				-1.000000,
+				0.000000,
+				-0.000000,
+				-0.000000,
+				-0.000000,
+				1.000000,
+				-0.000000,
+				1.000000,
+				0.000000 
+			],
+			"position":{ 
+				"x":158.500000,
+				"y":4.000000,
+				"z":2.000000 
+			},
+			"width":12.999999,
+			"height":4.000000 
+		} 
+	],
+	"spawn_points":[ 
+	],
+	"weapon_store_points":[ 
+	] 
+} 

@@ -1,0 +1,22 @@
+{
+	"columns":10,
+	"rows":7,
+	"fps":22,
+	"animations":[
+ 		{
+			"name":"approaching",
+			"start":0,
+			"end":29
+		},
+		{
+			"name":"dying1",
+			"start":31,
+			"end":41
+		},
+		{
+			"name":"dying2",
+			"start":42,
+			"end":61
+		}
+	]
+}

@@ -1,0 +1,93 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <!-- Menu button style -->
+    <style name="menu_button_style">
+	  <item name="android:layout_marginTop">5dp</item>
+	  <item name="android:layout_marginBottom">5dp</item>
+	  <item name="android:layout_width">match_parent</item>
+	  <item name="android:layout_height">wrap_content</item>
+	  <item name="android:layout_gravity">center</item>
+	  <item name="android:background">@drawable/menu_button</item>
+	  <item name="android:padding">10dp</item>
+	  <item name="android:textColor">@color/ui_button_text</item>
+	</style>
+	
+    <!-- Weapon Stat Label -->
+    <style name="weapon_stat_label">
+	  <item name="android:layout_width">match_parent</item>
+      <item name="android:layout_height">match_parent</item>
+      <item name="android:background">@drawable/weapon_stat_label</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+      <item name="android:textColor">@color/weapon_display_label_text</item>
+      <item name="android:layout_margin">1dp</item>
+      <item name="android:gravity">center</item>
+	</style>
+	
+    <!-- Weapon Stat Value -->
+    <style name="weapon_stat_value">
+	  <item name="android:layout_width">match_parent</item>
+      <item name="android:layout_height">match_parent</item>
+      <item name="android:background">@drawable/weapon_stat_value</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+      <item name="android:textColor">@color/weapon_display_value_text</item>
+      <item name="android:layout_margin">1dp</item>
+      <item name="android:gravity">center</item>
+	</style>
+	
+    <!-- Tutorial -->
+    <style name="tutorial_text">
+	  <item name="android:layout_marginTop">0dp</item>
+	  <item name="android:layout_marginBottom">0dp</item>
+	  <item name="android:layout_width">match_parent</item>
+	  <item name="android:layout_height">wrap_content</item>
+	  <item name="android:layout_gravity">center</item>
+	  <item name="android:gravity">center</item>
+	  <item name="android:background">@drawable/tutorial_text</item>
+	  <item name="android:padding">10dp</item>
+	  <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+      <item name="android:textColor">@color/tutorial_text</item>
+	</style>
+	
+    <style name="tutorial_image">
+	  <item name="android:layout_width">match_parent</item>
+	  <item name="android:layout_height">wrap_content</item>
+	  <item name="android:layout_gravity">center</item>
+	  <item name="android:gravity">center</item>
+	  <item name="android:padding">5dp</item>
+	  <item name="android:background">@drawable/tutorial_image</item>
+	</style>
+	
+    <!-- About text -->
+    <style name="about_text">
+	  <item name="android:layout_marginTop">5dp</item>
+	  <item name="android:layout_marginBottom">5dp</item>
+	  <item name="android:layout_width">match_parent</item>
+	  <item name="android:layout_height">wrap_content</item>
+	  <item name="android:layout_gravity">center</item>
+	  <item name="android:gravity">center</item>
+	  <item name="android:background">@drawable/about_text</item>
+	  <item name="android:padding">10dp</item>
+	  <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+      <item name="android:textColor">@color/tutorial_text</item>
+	</style>
+	
+</resources>

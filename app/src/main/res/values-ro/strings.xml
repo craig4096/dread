@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Da</string>
+<string name="no">NO</string>
+<string name="menu_play_game">Pornește</string>
+<string name="menu_how_to_play">Instrucţiuni</string>
+<string name="menu_settings">Setări</string>
+<string name="menu_about">Despre</string>
+<string name="menu_quit">Părăsi</string>
+<string name="menu_game_over">Joc terminat</string>
+<string name="menu_continue">Continuare</string>
+<string name="credit_text">Mulţumiri pentru a juca!</string>
+<string name="vibration_enabled">Vibraţii</string>
+<string name="vibration_enabled_summary">Telefonul va vibreze atunci când armele sunt concediat</string>
+<string name="sounds_enabled">Sunet</string>
+<string name="sounds_enabled_summary">Activează sau dezactivează sunetul efectele în joc</string>
+<string name="music_enabled">Muzică</string>
+<string name="music_enabled_summary">Activează sau dezactivează muzică de fundal în joc</string>
+<string name="ammo_bar_visible">Muniţie metri</string>
+<string name="ammo_bar_visible_summary">Muniţie metri vor fi afişate în joc</string>
+<string name="enemy_health_bars_visible">Sănătate metri</string>
+<string name="enemy_health_bars_visible_summary">Sănătate metri fi afişate în joc</string>
+<string name="menu_reset_save">Resetare joc</string>
+<string name="device_orientation_enabled">Dispozitiv de orientare</string>
+<string name="device_orientation_enabled_summary">Dispozitiv de orientare vor fi folosite pentru a roti camera</string>
+<string name="reset_save_confirm_title">Resetare joc?</string>
+<string name="reset_save_confirm_text">Într-adevăr doriţi să resetaţi jocul tau? Aceasta va şterge toate progresele</string>
+<string name="swipe_sensitivity">Beţivan sensibilitate</string>
+<string name="swipe_sensitivity_summary">Cat de repede aparatul foto se va roti atunci când glisaţi bara de beţivan</string>
+<string name="wstat_damage">a strica</string>
+<string name="wstat_firerate">Rata de foc</string>
+<string name="wstat_reloadtime">Timp reîncărcare</string>
+<string name="wstat_capacity">Capacitate</string>
+<string name="wstat_automatic">Automat</string>
+<string name="menu_back">Înapoi</string>
+<string name="how_to_play_swipe_bar">Trageţi de bara de beţivan partea de jos a ecranului pentru a roti camera stânga şi la dreapta</string>
+<string name="how_to_play_travel">Atunci când veţi vedea această pictogramă înseamnă că puteţi trece la un nou domeniu în joc, apăsaţi centrul ecranului pentru a merge acolo</string>
+<string name="how_to_play_weaponloc">Când găsiţi o armă în joc, atingeţi această pictogramă pentru a debloca!</string>
+<string name="how_to_play_weapon_display">Acest lucru vă va duce la ecranul de afişare armă, pentru a reveni la jocul fie apăsaţi butonul înapoi la partea de jos a ecranului sau butonul din spate pe aparatul dvs.</string>
+<string name="how_to_play_firing_reloading">Atingeţi partea de jos jumătate din ecranul pentru a trage arme şi atingeţi jumătatea de sus pentru a comuta între toate armele pe care le-aţi deblocat</string>
+<string name="developed_by">Dezvoltat de</string>
+<string name="email">E-mail</string>
+<string name="no_email">Tu don\ \'t au o activitate de e-mail instalat</string>
+<string name="ok">Bine</string>
+<string name="intro_briefing">Dr. Dread a trezit după secole de somn. El a trimis armata sa cu intenţia de a lua peste întreaga lume! Trebuie să-l oprească înainte de a fi prea târziu!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Foarte mic</item>
+<item>Scăzut</item>
+<item>Normal</item>
+<item>Rapid</item>
+<item>Foarte rapid</item>
+</string-array>
+</resources>

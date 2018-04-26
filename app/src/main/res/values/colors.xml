@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ui_button_text" type="color">#FFFFFF</item>
+    <item name="ui_button_stroke" type="color">#FF404040</item>
+    
+    <item name="ui_button_default_start" type="color">#001525</item>
+    <item name="ui_button_default_centre" type="color">#002847</item>
+    <item name="ui_button_default_end" type="color">#003965</item>
+    
+    <item name="ui_button_pressed_start" type="color">#0064ff</item>
+    <item name="ui_button_pressed_centre" type="color">#0086ff</item>
+    <item name="ui_button_pressed_end" type="color">#00a5ff</item>
+    
+    <item name="ui_button_focused_start" type="color">#0064ff</item>
+    <item name="ui_button_focused_centre" type="color">#0086ff</item>
+    <item name="ui_button_focused_end" type="color">#00a5ff</item>
+    
+    <item name="tutorial_text" type="color">#FFFFFF</item>
+    <item name="tutorial_text_background" type="color">#003965</item>
+    <item name="tutorial_stroke" type="color">#FFFFFF</item>
+    
+    
+    <item name="weapon_display_stroke" type="color">#172941</item>
+    <item name="weapon_display_stat_label" type="color">#0B192C</item>
+    <item name="weapon_display_stat_value" type="color">#0B192C</item>
+    <item name="weapon_display_name_background" type="color">#0B192C</item>
+    <item name="weapon_display_background" type="color">#000000</item>
+    <item name="weapon_display_label_text" type="color">#FFFFFF</item>
+    <item name="weapon_display_value_text" type="color">#FFFFFF</item>
+    <item name="weapon_display_name_text" type="color">#FFFFFF</item>
+    
+</resources>

@@ -1,0 +1,19 @@
+{
+	"sprite_sheet":"BasicZombie",
+	"health":800,
+	"width":1.8,
+	"height":3.0,
+	"speed":0.7,
+	"hurt_sounds":[
+	    "ZombieHurt1",
+	    "ZombieHurt2"
+	],
+	"death_sounds":[
+	    "ZombieDeath1",
+	    "ZombieDeath2",
+	    "ZombieDeath3",
+	    "ZombieDeath4"
+	],
+	"colour":"#FF0000",
+	"is_boss":false
+}

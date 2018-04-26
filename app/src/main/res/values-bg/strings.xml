@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Да</string>
+<string name="no">Не</string>
+<string name="menu_play_game">Бутон Start</string>
+<string name="menu_how_to_play">Инструкция</string>
+<string name="menu_settings">Настройки</string>
+<string name="menu_about">Относно</string>
+<string name="menu_quit">Напускам</string>
+<string name="menu_game_over">Край на играта!</string>
+<string name="menu_continue">Да продължи ли?</string>
+<string name="credit_text">Благодаря за игра!</string>
+<string name="vibration_enabled">Вибрации</string>
+<string name="vibration_enabled_summary">Телефонът ще вибрира, когато оръжията са уволнени</string>
+<string name="sounds_enabled">Звуци</string>
+<string name="sounds_enabled_summary">Позволява или забранява звукови ефекти в играта</string>
+<string name="music_enabled">Музика</string>
+<string name="music_enabled_summary">Разрешава или забранява фонова музика в играта</string>
+<string name="ammo_bar_visible">Боеприпаси м</string>
+<string name="ammo_bar_visible_summary">Боеприпаси м ще бъдат показани в играта</string>
+<string name="enemy_health_bars_visible">Здраве м</string>
+<string name="enemy_health_bars_visible_summary">Здравето метра се показва в играта</string>
+<string name="menu_reset_save">Рестартиране на играта</string>
+<string name="device_orientation_enabled">Устройството ориентация</string>
+<string name="device_orientation_enabled_summary">Ориентация на устройството ще се използва за завъртане на камерата</string>
+<string name="reset_save_confirm_title">Рестартиране на играта?</string>
+<string name="reset_save_confirm_text">Наистина ли искате да смените играта? Това ще изтрие всички прогрес</string>
+<string name="swipe_sensitivity">Тласнете чувствителност</string>
+<string name="swipe_sensitivity_summary">Колко бързо камерата ще се сменят когато плъзнете лентата на силен удар</string>
+<string name="wstat_damage">Щета</string>
+<string name="wstat_firerate">Скорост на стрелба</string>
+<string name="wstat_reloadtime">Презареждане време</string>
+<string name="wstat_capacity">капацитет</string>
+<string name="wstat_automatic">Автоматичен</string>
+<string name="menu_back">Гръб</string>
+<string name="how_to_play_swipe_bar">Плъзнете лентата на силен удар в долната част на екрана, за да завъртите камерата наляво и надясно</string>
+<string name="how_to_play_travel">Когато видите тази икона, това означава, можете да преместите в нова област в играта, натиснете центъра на екрана, за да отида там</string>
+<string name="how_to_play_weaponloc">Когато откриете оръжие в играта, натиснете върху тази икона, за да го отключите!</string>
+<string name="how_to_play_weapon_display">Това ще ви отведе до екрана на оръжие дисплея, за да се върнете към играта или натиснете бутона назад в долната част на екрана или бутона "назад" на вашето устройство</string>
+<string name="how_to_play_firing_reloading">Натиснете долната половина на екрана да стреля оръжие и натиснете горната половина да превключвате между всички оръжия са отключени</string>
+<string name="developed_by">Разработено от</string>
+<string name="email">Имейл</string>
+<string name="no_email">Вие в момента don\ т имат имейл дейност инсталирани</string>
+<string name="ok">Да</string>
+<string name="intro_briefing">Д-р ужасът се събудиха след векове на сън. Той е изпратил армията си с намерение да вземе над целия свят! Вие трябва да го спре, преди да е станало твърде късно!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Много ниско</item>
+<item>Ниско</item>
+<item>Нормална</item>
+<item>Пост</item>
+<item>Много бързо</item>
+</string-array>
+</resources>

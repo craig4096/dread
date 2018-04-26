@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Да</string>
+<string name="no">Нет</string>
+<string name="menu_play_game">Старт</string>
+<string name="menu_how_to_play">Инструкция</string>
+<string name="menu_settings">Параметры</string>
+<string name="menu_about">О приложении</string>
+<string name="menu_quit">Выход</string>
+<string name="menu_game_over">Игра окончена</string>
+<string name="menu_continue">Продолжить</string>
+<string name="credit_text">Спасибо за игру</string>
+<string name="vibration_enabled">Вибрация</string>
+<string name="vibration_enabled_summary">Телефон будет вибрировать при пушки выстрелил</string>
+<string name="sounds_enabled">Звуки</string>
+<string name="sounds_enabled_summary">Включает или выключает Звуковые эффекты в игре</string>
+<string name="music_enabled">Музыка</string>
+<string name="music_enabled_summary">Включает или выключает фоновую музыку в игре</string>
+<string name="ammo_bar_visible">Боеприпасы метров</string>
+<string name="ammo_bar_visible_summary">Боеприпасы метров будет отображаться в игре</string>
+<string name="enemy_health_bars_visible">Метров Здоровье</string>
+<string name="enemy_health_bars_visible_summary">Метров Здоровье отображаться в игре</string>
+<string name="menu_reset_save">Сброс игры</string>
+<string name="device_orientation_enabled">Ориентация устройства</string>
+<string name="device_orientation_enabled_summary">Ориентация устройства будут использоваться, чтобы вращать камеру</string>
+<string name="reset_save_confirm_title">Сбросить игру?</string>
+<string name="reset_save_confirm_text">Вы действительно хотите сбросить свою игру? это будет стереть все прогресс</string>
+<string name="swipe_sensitivity">Размах Чувствительность</string>
+<string name="swipe_sensitivity_summary">Как быстро камера будет вращаться при перетаскивании планку салфетки</string>
+<string name="wstat_damage">Повреждение</string>
+<string name="wstat_firerate">Противопожарные скорость</string>
+<string name="wstat_reloadtime">Перезагрузка время</string>
+<string name="wstat_capacity">Вместимость</string>
+<string name="wstat_automatic">Автоматический</string>
+<string name="menu_back">Назад</string>
+<string name="how_to_play_swipe_bar">Перетащите салфетки в нижней части экрана, чтобы повернуть камеру влево и вправо</string>
+<string name="how_to_play_travel">Если вы видите этот значок это означает, что вы можете переместить на новое место в игре, нажмите на центр экрана, чтобы пойти туда</string>
+<string name="how_to_play_weaponloc">Когда вы найдете оружие в игре, нажмите этот значок, чтобы разблокировать его!</string>
+<string name="how_to_play_weapon_display">Это приведет вас к экрану дисплея оружие, чтобы вернуться в игру либо нажмите кнопку назад на нижней части экрана или кнопки возврата на устройстве</string>
+<string name="how_to_play_firing_reloading">Нажмите на нижнюю половину экрана, чтобы стрелять оружие и нажмите верхняя половина для переключения между всеми оружия у вас разблокирован</string>
+<string name="developed_by">Разработал</string>
+<string name="email">Email</string>
+<string name="no_email">Вы в настоящее время не \ \'т быть установлена ​​электронная почта деятельность</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Доктор Dread проснулся после векового сна. Он разослал свое войско с намерением взять над всем миром! Вы должны остановить его, пока не стало слишком поздно!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Очень низкий</item>
+<item>Низкий</item>
+<item>Нормальный</item>
+<item>Быстро</item>
+<item>Очень быстро</item>
+</string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:paddingLeft="100dp"
+    android:paddingRight="100dp"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/creditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_game_over"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/gameOverQuit"
+		style="@style/menu_button_style"
+        android:text="@string/menu_quit"/>
+
+    <Button
+        android:id="@+id/gameOverContinue"
+		style="@style/menu_button_style"
+        android:text="@string/menu_continue"/>
+
+</LinearLayout>

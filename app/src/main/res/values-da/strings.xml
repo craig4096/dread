@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Ja</string>
+<string name="no">Nej</string>
+<string name="menu_play_game">Start</string>
+<string name="menu_how_to_play">Brugsanvisning</string>
+<string name="menu_settings">Indstillinger</string>
+<string name="menu_about">Om</string>
+<string name="menu_quit">Afslut</string>
+<string name="menu_game_over">Spil forbi</string>
+<string name="menu_continue">Fortsæt?</string>
+<string name="credit_text">Tak for at spille!</string>
+<string name="vibration_enabled">Vibration</string>
+<string name="vibration_enabled_summary">Telefonen vibrere, når kanoner er fyret</string>
+<string name="sounds_enabled">Lyd</string>
+<string name="sounds_enabled_summary">Aktiverer eller deaktiverer Lydeffekter i Game</string>
+<string name="music_enabled">Musik</string>
+<string name="music_enabled_summary">Aktiverer eller deaktiverer Baggrundsmusik i Game</string>
+<string name="ammo_bar_visible">Ammunition Meters</string>
+<string name="ammo_bar_visible_summary">Ammunition Målere vil blive vist i spillet</string>
+<string name="enemy_health_bars_visible">Sundhed Meters</string>
+<string name="enemy_health_bars_visible_summary">Sundhed Målere blive vist i spillet</string>
+<string name="menu_reset_save">Nulstil Spil</string>
+<string name="device_orientation_enabled">Device Orientering</string>
+<string name="device_orientation_enabled_summary">Device Orientering vil blive anvendt til at rotere kameraet</string>
+<string name="reset_save_confirm_title">Reset Game?</string>
+<string name="reset_save_confirm_text">Vil du virkelig ønsker at nulstille dit spil? dette vil slette alle fremskridt</string>
+<string name="swipe_sensitivity">Swipe Følsomhed</string>
+<string name="swipe_sensitivity_summary">Hvor hurtigt kameraet rotere, når du trækker knalde bar</string>
+<string name="wstat_damage">Skader</string>
+<string name="wstat_firerate">Fire-rate</string>
+<string name="wstat_reloadtime">Opdater tid</string>
+<string name="wstat_capacity">Kapacitet</string>
+<string name="wstat_automatic">Automatisk</string>
+<string name="menu_back">Tilbage</string>
+<string name="how_to_play_swipe_bar">Træk knalde nederst på skærmen for at rotere kameraet til venstre og højre</string>
+<string name="how_to_play_travel">Når du ser dette ikon betyder det du kan flytte til et nyt område i spillet, skal du trykke på midten af ​​skærmen for at gå der</string>
+<string name="how_to_play_weaponloc">Når du finder et våben i spillet, skal du trykke på dette ikon for at låse den op!</string>
+<string name="how_to_play_weapon_display">Dette vil tage dig til det våben skærmen, for at vende tilbage til spillet enten trykke på tilbage-knappen nederst på skærmen eller tilbage-knappen på din enhed</string>
+<string name="how_to_play_firing_reloading">Tryk på den nederste halvdel af skærmen for at skyde våben, og tryk på den øverste halvdel for at skifte mellem alle de våben, du har låst op</string>
+<string name="developed_by">Udviklet af</string>
+<string name="email">E-mail</string>
+<string name="no_email">Du har i øjeblikket don \ \'t have en e-mail-aktivitet installeret</string>
+<string name="ok">OK</string>
+<string name="intro_briefing">Dr. Dread har vågnet efter århundreders søvn. Han har afsendt sin hær med den hensigt at overtage hele verden! Du er nødt til at stoppe ham, inden det er for sent!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Meget lav</item>
+<item>Lav</item>
+<item>Normal</item>
+<item>Fart</item>
+<item>Meget hurtig</item>
+</string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Ja</string>
+<string name="no">Nein</string>
+<string name="menu_play_game">Starten</string>
+<string name="menu_how_to_play">Anleitung</string>
+<string name="menu_settings">Einstellungen</string>
+<string name="menu_about">Über uns</string>
+<string name="menu_quit">Beenden</string>
+<string name="menu_game_over">Game over</string>
+<string name="menu_continue">Fortsetzen?</string>
+<string name="credit_text">Danke fürs Mitspielen!</string>
+<string name="vibration_enabled">Vibration</string>
+<string name="vibration_enabled_summary">Telefon vibriert, wenn Kanonen abgefeuert werden</string>
+<string name="sounds_enabled">Schall</string>
+<string name="sounds_enabled_summary">Aktiviert oder deaktiviert Soundeffekte im Spiel</string>
+<string name="music_enabled">Musik</string>
+<string name="music_enabled_summary">Aktiviert oder deaktiviert Hintergrundmusik im Spiel</string>
+<string name="ammo_bar_visible">Munition Meter</string>
+<string name="ammo_bar_visible_summary">Munition Meter werden im Spiel angezeigt werden</string>
+<string name="enemy_health_bars_visible">Gesundheit Meter</string>
+<string name="enemy_health_bars_visible_summary">Gesundheit Meter im Spiel angezeigt werden</string>
+<string name="menu_reset_save">Spiel zurücksetzen</string>
+<string name="device_orientation_enabled">Geräte-Orientierung</string>
+<string name="device_orientation_enabled_summary">Vorrichtung Orientierung wird verwendet, um die Kamera zu drehen,</string>
+<string name="reset_save_confirm_title">Spiel zurücksetzen?</string>
+<string name="reset_save_confirm_text">Wollen Sie wirklich, um Ihr Spiel zurück? dies wird alle Fortschritte löschen</string>
+<string name="swipe_sensitivity">Swipe Empfindlichkeit</string>
+<string name="swipe_sensitivity_summary">Wie schnell sich die Kamera beim Ziehen des Swipe-Bar drehen</string>
+<string name="wstat_damage">Schaden</string>
+<string name="wstat_firerate">Feuerrate</string>
+<string name="wstat_reloadtime">Seite neu laden Zeit</string>
+<string name="wstat_capacity">Kapazität</string>
+<string name="wstat_automatic">Automatisch</string>
+<string name="menu_back">Zurück</string>
+<string name="how_to_play_swipe_bar">Ziehen Sie die Swipe-Leiste am unteren Bildschirmrand, um die Kamera links und rechts drehen</string>
+<string name="how_to_play_travel">Wenn Sie dieses Symbol sehen, es heißt, Sie können in einen neuen Bereich in das Spiel zu verschieben, tippen Sie auf die Mitte des Bildschirms, dorthin zu gehen</string>
+<string name="how_to_play_weaponloc">Wenn Sie eine Waffe im Spiel zu finden, tippen Sie auf dieses Symbol, um es zu entsperren!</string>
+<string name="how_to_play_weapon_display">Dadurch werden Sie auf der Waffe Bildschirm zu nehmen, um zum Spiel zurückzukehren drücken Sie entweder die Zurück-Taste am unteren Rand des Bildschirms oder der Zurück-Taste auf Ihrem Gerät</string>
+<string name="how_to_play_firing_reloading">Tippen Sie auf die untere Hälfte des Bildschirms, um Waffen zu schießen, und tippen Sie auf die obere Hälfte, um zwischen all den Waffen, die Sie freigeschaltet haben wechseln</string>
+<string name="developed_by">Entwickelt von</string>
+<string name="email">E-Mail</string>
+<string name="no_email">Sie derzeit don \ \'t haben eine E-Mail-Aktivität installiert</string>
+<string name="ok">OK</string>
+<string name="intro_briefing">Dr. Dread hat nach Jahrhunderten der Schlaf geweckt. Er hat seine Armee mit der Absicht, über die ganze Welt unter versandt! Sie müssen ihn aufhalten, bevor es zu spät ist!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Sehr geringZoom at low</item>
+<item>niedrig</item>
+<item>Normal</item>
+<item>Schnelle</item>
+<item>Sehr schnell</item>
+</string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Da</string>
+<string name="no">Ne</string>
+<string name="menu_play_game">ZAČNI</string>
+<string name="menu_how_to_play">Navodila</string>
+<string name="menu_settings">Nastavitve</string>
+<string name="menu_about">Opis</string>
+<string name="menu_quit">Prekini</string>
+<string name="menu_game_over">Game Over!</string>
+<string name="menu_continue">Nadaljevati?</string>
+<string name="credit_text">Hvala za igranje!</string>
+<string name="vibration_enabled">Tresljaji</string>
+<string name="vibration_enabled_summary">Telefon bo vibriral, ko so puške odpustili</string>
+<string name="sounds_enabled">Zvok</string>
+<string name="sounds_enabled_summary">Omogoči ali onemogoči zvočni učinki v igri</string>
+<string name="music_enabled">Glasba</string>
+<string name="music_enabled_summary">Omogoči ali onemogoči Ozadje Glasba v igri</string>
+<string name="ammo_bar_visible">Strelivo merilniki</string>
+<string name="ammo_bar_visible_summary">Strelivo Merilniki bodo prikazani v igri</string>
+<string name="enemy_health_bars_visible">Zdravstvene merilniki</string>
+<string name="enemy_health_bars_visible_summary">Zdravstvene Merila so prikazani v igri</string>
+<string name="menu_reset_save">Reset Game</string>
+<string name="device_orientation_enabled">Naprava Orientacija</string>
+<string name="device_orientation_enabled_summary">Naprava Orientacija se bo uporabljal za vrtenje kamere</string>
+<string name="reset_save_confirm_title">Reset Game?</string>
+<string name="reset_save_confirm_text">Ali res želite ponastaviti vašo igro? To bo izbrisala vse napredka</string>
+<string name="swipe_sensitivity">Močan Občutljivost</string>
+<string name="swipe_sensitivity_summary">Kako hitro se bo kamera vrti, ko povlečete Ukrasti bar</string>
+<string name="wstat_damage">Škoda</string>
+<string name="wstat_firerate">Fire-rate</string>
+<string name="wstat_reloadtime">Ponovno naloži čas</string>
+<string name="wstat_capacity">Prostornina</string>
+<string name="wstat_automatic">Avtomatski</string>
+<string name="menu_back">Zadaj</string>
+<string name="how_to_play_swipe_bar">Povlecite Ukrasti vrstico na dnu zaslona, ​​da se vrti levo in desno kamere</string>
+<string name="how_to_play_travel">Ko vidite to ikono, to pomeni, da lahko premaknete na novo področje v igri, udarite po zaslonu, da bi šel tja</string>
+<string name="how_to_play_weaponloc">Ko boste našli orožje v igri, pritisnite to ikono, da jo odklenete!</string>
+<string name="how_to_play_weapon_display">To vas bo pripeljalo na zaslon orožje, da se vrnete v igri pritisniti gumb nazaj na dnu zaslona ali gumb nazaj na svojo napravo</string>
+<string name="how_to_play_firing_reloading">Dotaknite spodnjo polovico zaslona ustrelil orožje in pritisnite zgornjo polovico, da preklopite med vsemi orožja imate odklenjena</string>
+<string name="developed_by">Razvila</string>
+<string name="email">Elektronska pošta</string>
+<string name="no_email">Trenutno ne \ \'t imeti nameščen e-poštni dejavnost</string>
+<string name="ok">Prav.</string>
+<string name="intro_briefing">Dr Dread se je prebudil po stoletjih spanja. Ki ga je odposlal svojo vojsko z namenom prevzema celega sveta! Moraš ga ustaviti, preden bo prepozno!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>zelo majhen</item>
+<item>Nizko</item>
+<item>Običajne</item>
+<item>Postenje</item>
+<item>Zelo hitro</item>
+</string-array>
+</resources>

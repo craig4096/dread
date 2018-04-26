@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Sì</string>
+<string name="no">No</string>
+<string name="menu_play_game">Inizio</string>
+<string name="menu_how_to_play">Istruzioni</string>
+<string name="menu_settings">Configurazioni</string>
+<string name="menu_about">Info</string>
+<string name="menu_quit">Esci</string>
+<string name="menu_game_over">Fine della partita.</string>
+<string name="menu_continue">Vuoi continuare?</string>
+<string name="credit_text">Grazie per giocare!</string>
+<string name="vibration_enabled">Vibrazione</string>
+<string name="vibration_enabled_summary">Telefono vibra quando le pistole sono licenziati</string>
+<string name="sounds_enabled">Suono</string>
+<string name="sounds_enabled_summary">Attiva o disattiva gli effetti sonori del gioco</string>
+<string name="music_enabled">Musica</string>
+<string name="music_enabled_summary">Attiva o disattiva la musica di sottofondo nel gioco</string>
+<string name="ammo_bar_visible">Munizioni Meters</string>
+<string name="ammo_bar_visible_summary">Munizioni Metri verranno visualizzati nel gioco</string>
+<string name="enemy_health_bars_visible">Salute Meters</string>
+<string name="enemy_health_bars_visible_summary">Salute Metri essere visualizzati nel gioco</string>
+<string name="menu_reset_save">Resetta Gioco</string>
+<string name="device_orientation_enabled">Orientamento dispositivo</string>
+<string name="device_orientation_enabled_summary">Orientamento dispositivo sarà utilizzato per ruotare la telecamera</string>
+<string name="reset_save_confirm_title">Resetta gioco?</string>
+<string name="reset_save_confirm_text">Vuoi davvero resettare il tuo gioco? questo cancellerà tutti i progressi</string>
+<string name="swipe_sensitivity">Swipe Sensibilità</string>
+<string name="swipe_sensitivity_summary">Quanto velocemente la telecamera ruoterà quando trascinando la barra magnetica</string>
+<string name="wstat_damage">capelli</string>
+<string name="wstat_firerate">Fuoco-rate</string>
+<string name="wstat_reloadtime">Tempo di ricarica</string>
+<string name="wstat_capacity">Capacità</string>
+<string name="wstat_automatic">Automatic</string>
+<string name="menu_back">Indietro</string>
+<string name="how_to_play_swipe_bar">Trascinare la barra magnetica nella parte inferiore dello schermo per ruotare la telecamera sinistra e destra</string>
+<string name="how_to_play_travel">Quando si vede questa icona significa che si può passare a una nuova area del gioco, toccare il centro dello schermo per andare lì</string>
+<string name="how_to_play_weaponloc">Quando si trova un arma nel gioco, toccare questa icona per sbloccarlo!</string>
+<string name="how_to_play_weapon_display">Questo vi porterà alla schermata arma, per tornare al gioco premere il tasto back in fondo il pulsante posteriore schermo o sul dispositivo</string>
+<string name="how_to_play_firing_reloading">Toccare la metà inferiore dello schermo per sparare armi e toccare la metà superiore per passare tra tutte le armi che avete sbloccato</string>
+<string name="developed_by">Sviluppato da</string>
+<string name="email">E-mail</string>
+<string name="no_email">Al momento don \ \'t hanno un\'attività email installato</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Dr. Dread ha risvegliato dopo secoli di sonno. Egli ha inviato il suo esercito con l\'intenzione di assumere il mondo intero! Bisogna fermarlo prima che sia troppo tardi!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Low,Medium,High</item>
+<item>Basso</item>
+<item>Normale</item>
+<item>Veloce</item>
+<item>Molto veloce</item>
+</string-array>
+</resources>

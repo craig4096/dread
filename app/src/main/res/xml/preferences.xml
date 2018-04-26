@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference
+        android:key="sounds_enabled"
+        android:title="@string/sounds_enabled"
+        android:summary="@string/sounds_enabled_summary"
+        android:defaultValue="true"
+        android:icon="@drawable/ic_action_volume_on"/>
+    <CheckBoxPreference
+        android:key="music_enabled"
+        android:title="@string/music_enabled"
+        android:summary="@string/music_enabled_summary"
+        android:defaultValue="true"
+        android:icon="@drawable/ic_action_volume_on"/>
+    <CheckBoxPreference
+        android:key="vibration_enabled"
+        android:title="@string/vibration_enabled"
+        android:summary="@string/vibration_enabled_summary"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_action_vibration"/>
+	<CheckBoxPreference
+        android:key="ammo_bar_visible"
+        android:title="@string/ammo_bar_visible"
+        android:summary="@string/ammo_bar_visible_summary"
+        android:defaultValue="true"
+        android:icon="@drawable/ic_action_ammo"/>
+	<CheckBoxPreference
+        android:key="enemy_health_bars_visible"
+        android:title="@string/enemy_health_bars_visible"
+        android:summary="@string/enemy_health_bars_visible_summary"
+        android:defaultValue="true"
+        android:icon="@drawable/ic_action_health"/>
+	<CheckBoxPreference
+        android:key="device_orientation_enabled"
+        android:title="@string/device_orientation_enabled"
+        android:summary="@string/device_orientation_enabled_summary"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_action_camera"/>
+	<ListPreference
+        android:key="swipe_sensitivity"
+        android:title="@string/swipe_sensitivity"
+        android:summary="@string/swipe_sensitivity_summary"
+        android:entries="@array/swipe_sensitivity_option_names"
+        android:entryValues="@array/swipe_sensitivity_option_values"
+        android:defaultValue="N"
+        android:icon="@drawable/ic_action_swipe"/>
+	
+	<Preference android:title="@string/menu_reset_save"
+                android:key="reset_save"
+                android:icon="@drawable/ic_action_save"/>
+</PreferenceScreen>

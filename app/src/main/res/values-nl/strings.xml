@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Ja</string>
+<string name="no">Nee</string>
+<string name="menu_play_game">Begin</string>
+<string name="menu_how_to_play">Instructies</string>
+<string name="menu_settings">Instellingen</string>
+<string name="menu_about">Over Ons</string>
+<string name="menu_quit">Ophouden</string>
+<string name="menu_game_over">Game over</string>
+<string name="menu_continue">Ga verder</string>
+<string name="credit_text">Bedankt voor het spelen!</string>
+<string name="vibration_enabled">Trilling</string>
+<string name="vibration_enabled_summary">Telefoon trilt wanneer geweren worden afgevuurd</string>
+<string name="sounds_enabled">Geluid</string>
+<string name="sounds_enabled_summary">Schakelt geluidseffecten in het spel</string>
+<string name="music_enabled">Muziek</string>
+<string name="music_enabled_summary">Schakelt Achtergrond muziek in het spel</string>
+<string name="ammo_bar_visible">Munitie Meters</string>
+<string name="ammo_bar_visible_summary">Munitie Meters worden weergegeven in het spel</string>
+<string name="enemy_health_bars_visible">Gezondheid Meters</string>
+<string name="enemy_health_bars_visible_summary">Gezondheid Meters weergegeven in het spel</string>
+<string name="menu_reset_save">Reset Game</string>
+<string name="device_orientation_enabled">Apparaat Orientation</string>
+<string name="device_orientation_enabled_summary">Apparaat oriëntatie worden gebruikt om de camera te draaien</string>
+<string name="reset_save_confirm_title">Reset Game?</string>
+<string name="reset_save_confirm_text">Wil je echt om je spel te resetten? dit zal alle vooruitgang te wissen</string>
+<string name="swipe_sensitivity">Swipe Gevoeligheid</string>
+<string name="swipe_sensitivity_summary">Hoe snel de camera wordt gedraaid wanneer het slepen van de swipe bar</string>
+<string name="wstat_damage">Damage</string>
+<string name="wstat_firerate">Vuursnelheid</string>
+<string name="wstat_reloadtime">Reload tijd</string>
+<string name="wstat_capacity">Capaciteit</string>
+<string name="wstat_automatic">Automatisch</string>
+<string name="menu_back">Terug</string>
+<string name="how_to_play_swipe_bar">Sleep de uithaal balk aan de onderkant van het scherm om de camera links en rechts draaien</string>
+<string name="how_to_play_travel">Wanneer je dit pictogram betekent dit dat u kunt verplaatsen naar een nieuw gebied in het spel, tikt u op het midden van het scherm om er te gaan</string>
+<string name="how_to_play_weaponloc">Wanneer je een wapen in het spel, tik op dit pictogram om het te openen!</string>
+<string name="how_to_play_weapon_display">Dit brengt u naar het scherm wapen scherm, om terug te keren naar het spel ofwel druk op de back-knop aan de onderkant van het scherm of de terug-knop op het toestel</string>
+<string name="how_to_play_firing_reloading">Tik op de onderste helft van het scherm om wapens te schieten en tik op de bovenste helft om te schakelen tussen alle wapens die je hebt ontgrendeld</string>
+<string name="developed_by">Ontwikkeld door</string>
+<string name="email">E-mail</string>
+<string name="no_email">U heeft momenteel don \ \'t hebben een e-mail activiteit geïnstalleerd</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Dr Dread is ontwaakt na eeuwen van de slaap. Hij heeft verzonden zijn leger met de bedoeling van de overname van de hele wereld! Je moet hem stoppen voordat het te laat is!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Zeer laag</item>
+<item>Laag</item>
+<item>Normaal</item>
+<item>Snel</item>
+<item>Zeer snel</item>
+</string-array>
+</resources>

@@ -1,0 +1,15 @@
+{
+	"sprite_sheet":"LastBoss",
+	"health":50000,
+	"width":46.0,
+	"height":26.0,
+	"speed":0.0,
+	"hurt_sounds":[
+	    "DoctorLaugh"
+	],
+	"death_sounds":[
+	    "DoctorDeath"
+	],
+	"colour":"#FFFFFF",
+	"is_boss":true
+}

@@ -1,0 +1,16 @@
+{
+	"sprite_sheet":"BasicZombie",
+	"health":10000,
+	"width":16.0,
+	"height":30.0,
+	"speed":0.75,
+	"hurt_sounds":[
+	    "ZombieHurt1",
+	    "ZombieHurt2"
+	],
+	"death_sounds":[
+	    "CeruleanTitanDeath"
+	],
+	"colour":"#6EB0F7",
+	"is_boss":true
+}

@@ -1,0 +1,18 @@
+{
+	"automatic": false,
+	"kick_back_offset_x": -5,
+	"kick_back_offset_y": -5,
+	"fire_rate": 20.0,
+	"mag_capacity":25,
+	"bullet_damage":1000,
+	"reload_time":2.0,
+	"kick_back_speed":400,
+	"kick_forward_speed":100,
+	"muzzle_x":180,
+	"muzzle_y":30,
+	"fire_sound":"LaserFire",
+	"empty_sound":"StdEmpty",
+	"reload_sound":"LaserRecharge",
+    "ammo_texture":"LaserAmmo",
+	"muzzle_flash_duration":0.1
+}

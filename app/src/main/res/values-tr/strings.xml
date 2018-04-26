@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">Evet</string>
+<string name="no">Hayır</string>
+<string name="menu_play_game">Başla</string>
+<string name="menu_how_to_play">Talimatlar</string>
+<string name="menu_settings">Ayarlar</string>
+<string name="menu_about">Hakkında</string>
+<string name="menu_quit">Çıkmak</string>
+<string name="menu_game_over">Oyun bitti</string>
+<string name="menu_continue">Devam et?</string>
+<string name="credit_text">Oynamak için teşekkürler!</string>
+<string name="vibration_enabled">Titreşim</string>
+<string name="vibration_enabled_summary">Tüfekler patladığı anda telefon titreşimle</string>
+<string name="sounds_enabled">Ses</string>
+<string name="sounds_enabled_summary">Etkinleştirir veya Oyunu Ses efektleri devre dışı bırakır</string>
+<string name="music_enabled">Müzik</string>
+<string name="music_enabled_summary">Etkinleştirir veya Oyunu Background Music devre dışı bırakır</string>
+<string name="ammo_bar_visible">Mühimmat Metre</string>
+<string name="ammo_bar_visible_summary">Mühimmat Metre oyunda görünecektir</string>
+<string name="enemy_health_bars_visible">Sağlık Metre</string>
+<string name="enemy_health_bars_visible_summary">Sağlık Metre oyunda görüntülenir</string>
+<string name="menu_reset_save">Oyunu Reset</string>
+<string name="device_orientation_enabled">Cihaz Oryantasyon</string>
+<string name="device_orientation_enabled_summary">Cihaz Oryantasyon kamerayı döndürmek için kullanılacak</string>
+<string name="reset_save_confirm_title">Oyunu Reset?</string>
+<string name="reset_save_confirm_text">Eğer gerçekten oyununuzu sıfırlamak istiyor musunuz? Bu tüm ilerleme silecektir</string>
+<string name="swipe_sensitivity">Tokatlamak Hassasiyet</string>
+<string name="swipe_sensitivity_summary">Tokatlamak çubuğunu sürükleyerek zaman kamera döndürmek ne kadar hızlı</string>
+<string name="wstat_damage">Hasar</string>
+<string name="wstat_firerate">Yangın oranı</string>
+<string name="wstat_reloadtime">Zaman güncelle</string>
+<string name="wstat_capacity">kapasite</string>
+<string name="wstat_automatic">Otomatik</string>
+<string name="menu_back">Geri</string>
+<string name="how_to_play_swipe_bar">Kamera sağ ve sol döndürmek için ekranın altındaki tokatlamak çubuğunu sürükleyin</string>
+<string name="how_to_play_travel">Bu simgeyi gördüğünüzde onu oraya gitmek için ekranın merkezine dokunun, oyunda yeni bir alana taşımak anlamına gelir</string>
+<string name="how_to_play_weaponloc">Eğer oyunda bir silah bulduğunuzda, onu açmak için bu simgeye dokunun!</string>
+<string name="how_to_play_weapon_display">Bu oyuna geri dönmek ya da cihazınızda ekran veya geri butonu altındaki geri düğmesine basın, silah ekran götürecek</string>
+<string name="how_to_play_firing_reloading">Silah ateş ve üst yarısı, kilidi tüm silahlar arasında geçiş yapmak için dokunun ekranın alt yarısında dokunun</string>
+<string name="developed_by">Tarafından geliştirilen</string>
+<string name="email">E-posta</string>
+<string name="no_email">\'T bir e-posta etkinlik yüklü \ Şu anda don</string>
+<string name="ok">Ok</string>
+<string name="intro_briefing">Dr Dread uyku yüzyıllar sonra uyandı. O tüm dünyada alarak niyeti ile ordusunu gönderdi! Çok geç olmadan önce onu durdurmak için var!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>Çok düşük</item>
+<item>Düşük</item>
+<item>Normal</item>
+<item>Oruç</item>
+<item>Çok hızlı</item>
+</string-array>
+</resources>

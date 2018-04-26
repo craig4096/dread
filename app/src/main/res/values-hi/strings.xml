@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns="http://schemas.android.com/apk/res/android">
+<string name="yes">हां</string>
+<string name="no">नहीं</string>
+<string name="menu_play_game">आरंभ</string>
+<string name="menu_how_to_play">निर्देश</string>
+<string name="menu_settings">स्थापनाएं</string>
+<string name="menu_about">हमारे बारे में</string>
+<string name="menu_quit">छोड़ना</string>
+<string name="menu_game_over">खेल खत्म!</string>
+<string name="menu_continue">जारी</string>
+<string name="credit_text">खेलने के लिए धन्यवाद!</string>
+<string name="vibration_enabled">स्पंदन</string>
+<string name="vibration_enabled_summary">बंदूकें निकाल रहे हैं जब फोन कंपन होगा</string>
+<string name="sounds_enabled">ध्वनि</string>
+<string name="sounds_enabled_summary">सक्षम या खेल में ध्वनि प्रभाव को अक्षम</string>
+<string name="music_enabled">संगीत</string>
+<string name="music_enabled_summary">सक्षम या खेल में पृष्ठभूमि संगीत अक्षम करता है</string>
+<string name="ammo_bar_visible">गोला मीटर</string>
+<string name="ammo_bar_visible_summary">गोला मीटर खेल में प्रदर्शित किया जाएगा</string>
+<string name="enemy_health_bars_visible">स्वास्थ्य मीटर</string>
+<string name="enemy_health_bars_visible_summary">स्वास्थ्य मीटर खेल में प्रदर्शित किया</string>
+<string name="menu_reset_save">खेल रीसेट</string>
+<string name="device_orientation_enabled">डिवाइस अभिविन्यास</string>
+<string name="device_orientation_enabled_summary">डिवाइस अभिविन्यास कैमरा बारी बारी से करने के लिए इस्तेमाल किया जाएगा</string>
+<string name="reset_save_confirm_title">खेल रीसेट?</string>
+<string name="reset_save_confirm_text">आप वास्तव में अपने खेल को रीसेट करना चाहते हैं? यह सब प्रगति मिटा देंगे</string>
+<string name="swipe_sensitivity">कड़ी चोट संवेदनशीलता</string>
+<string name="swipe_sensitivity_summary">कड़ी चोट पट्टी खींचकर जब कैमरा बारी बारी से होगा कितनी तेजी</string>
+<string name="wstat_damage">विध्वंस /क्षति</string>
+<string name="wstat_firerate">आग दर</string>
+<string name="wstat_reloadtime">समय पुनः लोड करें</string>
+<string name="wstat_capacity">क्षमता</string>
+<string name="wstat_automatic">स्वचालित</string>
+<string name="menu_back">ಹಿಂದೆ</string>
+<string name="how_to_play_swipe_bar">कैमरा बाएँ और दाएँ घुमाने के लिए स्क्रीन के नीचे स्थित कड़ी चोट पट्टी खींचें</string>
+<string name="how_to_play_travel">आप इस आइकन देखते हैं यह आप वहाँ जाने के लिए स्क्रीन के केंद्र नल, खेल में एक नया क्षेत्र के लिए स्थानांतरित कर सकते हैं इसका मतलब</string>
+<string name="how_to_play_weaponloc">आप खेल में एक हथियार मिल जाए, इसे अनलॉक करने के लिए इस चिह्न नल!</string>
+<string name="how_to_play_weapon_display">इस खेल के लिए लौटने के लिए या तो अपने डिवाइस पर स्क्रीन या वापस बटन के तल पर वापस बटन प्रेस करने के लिए, हथियार डिस्प्ले स्क्रीन पर ले जाएगा</string>
+<string name="how_to_play_firing_reloading">हथियारों गोली मार और ऊपर से आधा आप खुला है सभी हथियारों के बीच स्विच करने के लिए दोहन करने के लिए स्क्रीन के नीचे आधा ठोकर</string>
+<string name="developed_by">द्वारा विकसित</string>
+<string name="email">प-पत्र</string>
+<string name="no_email">\'टी एक ईमेल गतिविधि स्थापित होना \ आप वर्तमान में डॉन</string>
+<string name="ok">ಸರಿ</string>
+<string name="intro_briefing">डॉ. खूंखार नींद की सदियों के बाद awoken है. उन्होंने कहा कि पूरी दुनिया में लेने के इरादे से अपनी सेना को भेजा गया है! यह बहुत देर हो चुकी है इससे पहले कि आप उसे रोकने के लिए है!</string>
+<string-array name="swipe_sensitivity_option_names">
+<item>बहुत कम</item>
+<item>निम्न</item>
+<item>सामान्य</item>
+<item>तेज</item>
+<item>बहुत तेजी से</item>
+</string-array>
+</resources>
